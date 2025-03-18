@@ -8,7 +8,7 @@ This project is an Unreal Engine assignment focused on creating a poseable chara
 
 - [Overview](#overview)
 - [Features](#features)
-- [Implementation Details]
+- [Implementation Details](#)
   - [Poseable Mesh](#poseable-mesh)
   - [Multi-Bone IK using FABRIK](#multi-bone-ik-using-fabrik)
   - [Scripted Animation](#scripted-animation)
