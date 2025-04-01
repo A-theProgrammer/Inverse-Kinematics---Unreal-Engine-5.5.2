@@ -186,7 +186,7 @@ Follow these step-by-step instructions to download and run the project on your l
 
 ## License
 
-This project is provided under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is provided under the GNU License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
